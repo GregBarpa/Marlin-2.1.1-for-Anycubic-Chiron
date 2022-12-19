@@ -12,6 +12,19 @@
     <a href="https://twitter.com/MarlinFirmware"><img alt="Follow MarlinFirmware on Twitter" src="https://img.shields.io/twitter/follow/MarlinFirmware?style=social&logo=twitter"></a>
 </p>
 
+## Que ontiene esta modificacion:
+
+Este Marlin es para la impresora 3D Anycubic Chiron. Características:
+
+- Placa estandar Trigorilla 14
+
+- Controladores de motores A4988
+
+- Extrusor directo
+
+Para adaptarlo a tu máquina tienes que modificar algunos parametros en los ficheros Configuration.h y Configuration_adv.h
+
+
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
