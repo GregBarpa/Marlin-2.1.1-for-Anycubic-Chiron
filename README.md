@@ -16,7 +16,7 @@
 
 Este Marlin 2.1.1 es para la impresora 3D Anycubic Chiron. Caracteristicas:
 
-- Placa estandar Trigorilla 14
+- Controladora estandar Trigorilla 14
 
 - Controladores de motores A4988
 
