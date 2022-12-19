@@ -12,9 +12,9 @@
     <a href="https://twitter.com/MarlinFirmware"><img alt="Follow MarlinFirmware on Twitter" src="https://img.shields.io/twitter/follow/MarlinFirmware?style=social&logo=twitter"></a>
 </p>
 
-## Que ontiene esta modificacion:
+## Que contiene esta modificacion:
 
-Este Marlin es para la impresora 3D Anycubic Chiron. Características:
+Este Marlin 2.1.1 es para la impresora 3D Anycubic Chiron. Caracteristicas:
 
 - Placa estandar Trigorilla 14
 
@@ -22,8 +22,11 @@ Este Marlin es para la impresora 3D Anycubic Chiron. Características:
 
 - Extrusor directo
 
-Para adaptarlo a tu máquina tienes que modificar algunos parametros en los ficheros Configuration.h y Configuration_adv.h
+- Firmware compilado en: \.pio\build\mega2560\firmware.hex (subelo a la maquina con Cura)
 
+Para adaptarlo a tu máquina tendrás que modificar algunos parametros en los ficheros Configuration.h y Configuration_adv.h
+
+__________________________________________________________________________________________________
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
