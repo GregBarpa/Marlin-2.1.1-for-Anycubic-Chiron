@@ -24,7 +24,7 @@ Este Marlin 2.1.1 es para la impresora 3D Anycubic Chiron. Caracteristicas:
 
 - Activado Line Advance
 
-- Firmware compilado en: \.pio\build\mega2560\firmware.hex (subelo a la maquina con Cura)
+- Firmware compilado en: firmware.hex (subelo a la maquina con Cura)
 
 Para adaptarlo a tu máquina tendrás que modificar algunos parametros en los ficheros Configuration.h y Configuration_adv.h
 
