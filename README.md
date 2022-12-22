@@ -26,6 +26,9 @@ Este Marlin 2.1.1 es para la impresora 3D Anycubic Chiron. Caracteristicas:
 
 - Firmware compilado en: firmware.hex (subelo a la maquina con Cura)
 
+Existen dos directorios de configuracion. Uno para los drivers A4988 y otro para los drivers TMC2209 sin UART (modo standalone).
+Sustituir los necesarios y compilar.
+
 Para adaptarlo a tu máquina tendrás que modificar algunos parametros en los ficheros Configuration.h y Configuration_adv.h
 
 __________________________________________________________________________________________________
